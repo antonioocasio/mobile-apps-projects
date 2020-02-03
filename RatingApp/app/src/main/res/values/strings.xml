@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Game Rating App</string>
+    <string name="game_name">Game Name</string>
+    <string name="game_type">Type of Game</string>
+    <string name="review">Review of Game</string>
+</resources>
